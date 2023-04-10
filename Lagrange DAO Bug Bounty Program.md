@@ -40,10 +40,10 @@ The rewards for valid vulnerabilities will be determined on a case-by-case basis
 | Severity Level | Description | Examples | Rewards |
 | :----------: | :----------: | :----------: | :----------: |
 | Critical | Can cause serious problems if are not fixed | Potential to remote code execution, result in the loss of users funds, smart contracts abuse, etc. | Up to [how much?] [USD/LAD?] | 
-| High | Significantly impact the platform security or functionality but may have some limitation in terms of exploitability or potential damage | Bypassing platform restrictions, manipulation of platform features        | Up to [how much?] [USD/LAD] |
-| Medium | Limited threat to the platform or users with a relatively lower impact on security or functionality | Information disclosure, minor logic flaws in smart contracts, or other security risks that require specific conditions to be exploited        | Up to [how much?] [USD/LAD] |
-| Low | - Minimal risk that may require extensive effort to exploit; <br> - Minor impact on the platform security | Issues that could cause inconvenience, bad UX, etc. | Up to [how much?] [USD/LAD?] |
-| Informational | Informational or improvement reports | Suggestions for optimizing the platforms performance, security practices, or improving UX, smart contract code qualities, data handling practices etc. | Up to [how much?] [USD/LAD?] |
+| High | Significantly impact the platform security or functionality but may have some limitation in terms of exploitability or potential damage | Bypassing platform restrictions, manipulation of platform features        | Up to [how many?] LAD] |
+| Medium | Limited threat to the platform or users with a relatively lower impact on security or functionality | Information disclosure, minor logic flaws in smart contracts, or other security risks that require specific conditions to be exploited        | Up to [how many?] LAD |
+| Low | - Minimal risk that may require extensive effort to exploit; <br> - Minor impact on the platform security | Issues that could cause inconvenience, bad UX, etc. | Up to [how many?] LAD |
+| Informational | Informational or improvement reports | Suggestions for optimizing the platforms performance, security practices, or improving UX, smart contract code qualities, data handling practices etc. | Up to [how many?] LAD |
 
 
 ## Reporting Process
