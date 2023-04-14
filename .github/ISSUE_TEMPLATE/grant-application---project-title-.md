@@ -10,7 +10,7 @@ assignees: ''
 Team Name: Legal name of your team (e.g. FilSwan)
 Payment Address: Please provide the ________ payment address. Please also specify the currency. 
 Project Overview
-Overview
+# Overview
 Please provide the following:
 If the name of your project is not descriptive, a tagline (one sentence summary).
 A brief description of your project.
@@ -85,18 +85,3 @@ Please include any additional information that you think would be useful in help
 Work you have already done.
 If there are any other teams who have already contributed (financially) to the project.
 Previous grants you may have applied for.
-
-
-
-
-
-
-
-
-References: 
-
-
-https://github.com/filecoin-project/devgrants/issues/new?assignees=realChainLife&labels=&template=open-grant-application.md&title=
-
-
-https://github.com/w3f/Grants-Program/edit/master/applications/application-template.md
