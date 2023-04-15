@@ -25,6 +25,15 @@ To apply for funding through the Lagrange DAO Platform, please create a new issu
 our [grant application form](https://github.com/lagrangedao/devgrants/issues/new/choose). Be sure
 to include a detailed description of your project, including any relevant links or documentation.
 
+## Review Process 
+* All grant application submissions are reviewed by the Lagrange team on a rolling basis. 
+
+* Members of the Lagrange Dao ecosystem team will reach out, provide feedback and request changes upon the reception of the first application draft. 
+
+* Following an interview, applicants will receive a decision on their grant proposal. 
+
+* The grant agreement will then be shared with the team to execute and move forward to be funded by Lagrange. 
+    
 Our review process is designed to be transparent and community-driven. Once your application is submitted, it will be
 reviewed by members of the Lagrange DAO community, who will provide feedback and suggest improvements. Final funding
 decisions will be made by the Lagrange DAO governance mechanism, which is designed to be transparent and inclusive.
