@@ -1,41 +1,19 @@
-<!-- Output copied to clipboard! -->
+---
+name: 'Grant Application: <Project Title>'
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
 
-<!-----
+---
 
-Yay, no errors, warnings, or alerts!
+Team Name: Legal name of your team (e.g. FilSwan)
 
-Conversion time: 0.591 seconds.
+Payment Address: Please provide the ________ payment address. Please also specify the currency.
 
+Project Overview
 
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Fri Apr 14 2023 20:13:00 GMT-0700 (PDT)
-* Source doc: Lagrange Open Developer Grant Application Template
-* This is a partial selection. Check to make sure intra-doc links work.
------>
-
-
-
-## Lagrange Open Developer Grant Application: Project Title
-
-
-
-* Team Name: Legal name of your team (e.g. FilSwan)
-* Payment Address: Please provide the ________ payment address. Please also specify the currency. 
-
-
-## Project Overview
-
-
-### Overview
+# Overview
 
 Please provide the following:
 
